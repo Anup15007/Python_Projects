@@ -1,5 +1,4 @@
 # Python_Projects
-#PythonScripts
 Problem Statement 1:
 Value Inc is a retail store that sells household items all over the world by bulk.
 The Sales Manager has no sales reporting but he has a brief idea of current sales.
@@ -12,3 +11,11 @@ They supply loans to individuals and don’t have much reporting on how risky th
 borrowers are.
 Using Python and Tableau, they’d like to see a report of borrowers who may have
 issues paying back the loan.
+
+Problem Statement 3:
+BlogMe, a famous blogging business has a dataset of news articles that they need
+further analysis on.
+Firstly, they’d like keywords to be extracted from headlines of the article. Secondly,
+they would need to determine the sentiment of the news articles. The data is in an
+excel sheet and they would like to see a dashboard outlying sentiment, top articles etc.
+Date File: (articles.xlsx) – 4.7 MB file
