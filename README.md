@@ -1,4 +1,4 @@
-# Python_Projects
+# Python_Projects- Packages used : Pandas, NumPy, Vader.
 Problem Statement 1:
 Value Inc is a retail store that sells household items all over the world by bulk.
 The Sales Manager has no sales reporting but he has a brief idea of current sales.
