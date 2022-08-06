@@ -13,6 +13,7 @@ They supply loans to individuals and don’t have much reporting on how risky th
 borrowers are.
 Using Python and Tableau, they’d like to see a report of borrowers who may have
 issues paying back the loan.
+https://public.tableau.com/app/profile/anup.banerjee/viz/BlueBank_16597734819390/BlueBankLoan
 
 Problem Statement 3:
 BlogMe, a famous blogging business has a dataset of news articles that they need
