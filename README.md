@@ -5,7 +5,7 @@ The Sales Manager has no sales reporting but he has a brief idea of current sale
 He also has no idea of the monthly cost, profit and top selling products. He wants a
 dashboard on this and says the data is currently stored in an excel sheet.
  Tableau Dashboard Link:
- https://public.tableau.com/app/profile/anup.banerjee/viz/ValueInc_Sales/Dashboard1?publish=yes
+ https://public.tableau.com/app/profile/anup.banerjee/viz/ValueInc_Sales/Dashboard1
 
 Problem Statement 2:
 Blue Bank is a bank in USA that has a loan department which is currently understaffed.
@@ -13,7 +13,8 @@ They supply loans to individuals and don’t have much reporting on how risky th
 borrowers are.
 Using Python and Tableau, they’d like to see a report of borrowers who may have
 issues paying back the loan.
-https://public.tableau.com/app/profile/anup.banerjee/viz/BlueBank_16597734819390/BlueBankLoan
+ Tableau Dashboard Link:
+ https://public.tableau.com/app/profile/anup.banerjee/viz/BlueBank_16597734819390/BlueBankLoan
 
 Problem Statement 3:
 BlogMe, a famous blogging business has a dataset of news articles that they need
