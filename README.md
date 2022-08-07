@@ -23,3 +23,5 @@ Firstly, they’d like keywords to be extracted from headlines of the article. S
 they would need to determine the sentiment of the news articles. The data is in an
 excel sheet and they would like to see a dashboard outlying sentiment, top articles etc.
 Date File: (articles.xlsx) – 4.7 MB file
+ Tableau Dashboard Link:
+ https://public.tableau.com/app/profile/anup.banerjee/viz/BlogMeNewsAnalysis_16598545534590/BlogMeNewsDashboard
